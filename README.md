@@ -3,7 +3,8 @@
 
 
 ![Screenshot 2024-11-04 135754](https://github.com/user-attachments/assets/dc23aa07-c6cf-4f74-9be2-8041dd45b276)
-Following is the System Architecture of Multi-Task Learnig Model.
+
+System Architecture of Multi-Task Learnig Model.
 
 
 
